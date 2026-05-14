@@ -1,0 +1,2979 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49910933317294,
+            12.924568957928047
+          ],
+          [
+            77.49913247276777,
+            12.924547507135705
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49961888372802,
+            12.924096622711138
+          ],
+          [
+            77.4999435047284,
+            12.924433680000279
+          ],
+          [
+            77.50005064286145,
+            12.924400156750227
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49961888372802,
+            12.924096622711138
+          ],
+          [
+            77.49923921860919,
+            12.924448558593927
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49961888372802,
+            12.924096622711138
+          ],
+          [
+            77.4995845959469,
+            12.924060251829292
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50005064286145,
+            12.924400156750227
+          ],
+          [
+            77.50009208501565,
+            12.924613047154592
+          ],
+          [
+            77.4996283525753,
+            12.92483165554668
+          ],
+          [
+            77.49923921860919,
+            12.924448558593927
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50005064286145,
+            12.924400156750227
+          ],
+          [
+            77.50039506467127,
+            12.924086892969134
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50053018591159,
+            12.923963996994207
+          ],
+          [
+            77.5006218655167,
+            12.924060986758711
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50053018591159,
+            12.923963996994207
+          ],
+          [
+            77.50039506467127,
+            12.924086892969134
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50053018591159,
+            12.923963996994207
+          ],
+          [
+            77.50024637412453,
+            12.923688716591386
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49923921860919,
+            12.924448558593927
+          ],
+          [
+            77.49913343192233,
+            12.924546617890988
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49913343192233,
+            12.924546617890988
+          ],
+          [
+            77.49941699503503,
+            12.924792328599393
+          ],
+          [
+            77.49934953438412,
+            12.924859821451188
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49913343192233,
+            12.924546617890988
+          ],
+          [
+            77.49913247276777,
+            12.924547507135705
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49913247276777,
+            12.924547507135705
+          ],
+          [
+            77.49906598442226,
+            12.924482905120382
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49800897103401,
+            12.923455853941968
+          ],
+          [
+            77.49778676015636,
+            12.923638929658411
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49800897103401,
+            12.923455853941968
+          ],
+          [
+            77.4980882890695,
+            12.923532922329967
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49800897103401,
+            12.923455853941968
+          ],
+          [
+            77.49784480507734,
+            12.923438430526803
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4980882890695,
+            12.923532922329967
+          ],
+          [
+            77.49804331963188,
+            12.923576847230661
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4980882890695,
+            12.923532922329967
+          ],
+          [
+            77.49828906433007,
+            12.923728004109376
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49800900037437,
+            12.923448600697833
+          ],
+          [
+            77.49804399445995,
+            12.923410022615528
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49804399445995,
+            12.923410022615528
+          ],
+          [
+            77.49794746519582,
+            12.923281586999803
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49804399445995,
+            12.923410022615528
+          ],
+          [
+            77.49815636367657,
+            12.923313653042927
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49815636367657,
+            12.923313653042927
+          ],
+          [
+            77.49829997843642,
+            12.9234905873271
+          ],
+          [
+            77.49828906433007,
+            12.923728004109376
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49815636367657,
+            12.923313653042927
+          ],
+          [
+            77.49828873938951,
+            12.923193166500937
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49828906433007,
+            12.923728004109376
+          ],
+          [
+            77.4986330021717,
+            12.924062195083136
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4986330021717,
+            12.924062195083136
+          ],
+          [
+            77.49891353748902,
+            12.923758407751118
+          ],
+          [
+            77.4990770775182,
+            12.92393056704119
+          ],
+          [
+            77.49929429206992,
+            12.92375231169431
+          ],
+          [
+            77.49945658789896,
+            12.923924467202724
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4986330021717,
+            12.924062195083136
+          ],
+          [
+            77.49906598442226,
+            12.924482905120382
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4995470428642,
+            12.92401661768948
+          ],
+          [
+            77.49954693296381,
+            12.924016718902111
+          ],
+          [
+            77.49906598442226,
+            12.924482905120382
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49901492066462,
+            12.924532404301363
+          ],
+          [
+            77.49906598442226,
+            12.924482905120382
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49945658789896,
+            12.923924467202724
+          ],
+          [
+            77.49951029388713,
+            12.923873857105063
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49945658789896,
+            12.923924467202724
+          ],
+          [
+            77.4995845959469,
+            12.924060251829292
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4995845959469,
+            12.924060251829292
+          ],
+          [
+            77.4998814567313,
+            12.923778274117312
+          ],
+          [
+            77.49975018766463,
+            12.923625555134711
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49975018766463,
+            12.923625555134711
+          ],
+          [
+            77.49955426909166,
+            12.923460550765668
+          ],
+          [
+            77.49962163194093,
+            12.92341723551038
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49975018766463,
+            12.923625555134711
+          ],
+          [
+            77.49986761835804,
+            12.923508267826163
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49996256233747,
+            12.923413436188564
+          ],
+          [
+            77.49986761835804,
+            12.923508267826163
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49996256233747,
+            12.923413436188564
+          ],
+          [
+            77.50004736354883,
+            12.923365338380396
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49996256233747,
+            12.923413436188564
+          ],
+          [
+            77.50024637412453,
+            12.923688716591386
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49986761835804,
+            12.923508267826163
+          ],
+          [
+            77.49982794422023,
+            12.923473471470642
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50039506467127,
+            12.924086892969134
+          ],
+          [
+            77.5007780156822,
+            12.924450723103686
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50168243259571,
+            12.923938485832915
+          ],
+          [
+            77.50182872986515,
+            12.924067072714958
+          ],
+          [
+            77.50184849036552,
+            12.924103399442167
+          ],
+          [
+            77.50108692677547,
+            12.924744213127351
+          ],
+          [
+            77.50092097901573,
+            12.924586553185781
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50168243259571,
+            12.923938485832915
+          ],
+          [
+            77.50149248286561,
+            12.924143419604768
+          ],
+          [
+            77.50117025246627,
+            12.923830546875847
+          ],
+          [
+            77.50111295079935,
+            12.923847297155898
+          ],
+          [
+            77.50099127346941,
+            12.92378406510424
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50168243259571,
+            12.923938485832915
+          ],
+          [
+            77.50160376408202,
+            12.923865713392415
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50099127346941,
+            12.92378406510424
+          ],
+          [
+            77.50105275974737,
+            12.923963167542498
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50099127346941,
+            12.92378406510424
+          ],
+          [
+            77.50084995300051,
+            12.923655493348829
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50084995300051,
+            12.923655493348829
+          ],
+          [
+            77.50082750849754,
+            12.923667514019213
+          ],
+          [
+            77.50076130948221,
+            12.923423117257098
+          ],
+          [
+            77.50090829135983,
+            12.923382461775963
+          ],
+          [
+            77.50104727991035,
+            12.923472341999332
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50084995300051,
+            12.923655493348829
+          ],
+          [
+            77.50104727991035,
+            12.923472341999332
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50104727991035,
+            12.923472341999332
+          ],
+          [
+            77.50113701880177,
+            12.923433930309978
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50113701880177,
+            12.923433930309978
+          ],
+          [
+            77.50160376408202,
+            12.923865713392415
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50113701880177,
+            12.923433930309978
+          ],
+          [
+            77.50118245549427,
+            12.923274495078667
+          ],
+          [
+            77.50127738634879,
+            12.923182908058946
+          ],
+          [
+            77.5012902782355,
+            12.923071729465438
+          ],
+          [
+            77.50124635746116,
+            12.92285641374971
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50113701880177,
+            12.923433930309978
+          ],
+          [
+            77.5012195858959,
+            12.923322963489314
+          ],
+          [
+            77.50184845865353,
+            12.923099905517327
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50160376408202,
+            12.923865713392415
+          ],
+          [
+            77.50163561265619,
+            12.92382470797178
+          ],
+          [
+            77.50161576804682,
+            12.923809173877762
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50152398672847,
+            12.923737328692932
+          ],
+          [
+            77.50161576804682,
+            12.923809173877762
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50161576804682,
+            12.923809173877762
+          ],
+          [
+            77.50201273031261,
+            12.923487365306121
+          ],
+          [
+            77.50184845865353,
+            12.923099905517327
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50168736177476,
+            12.922719940818034
+          ],
+          [
+            77.50151275321116,
+            12.922823374551873
+          ],
+          [
+            77.50124635746116,
+            12.92285641374971
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50168736177476,
+            12.922719940818034
+          ],
+          [
+            77.50184845865353,
+            12.923099905517327
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50168736177476,
+            12.922719940818034
+          ],
+          [
+            77.50177970642784,
+            12.922652523715449
+          ],
+          [
+            77.50201122545366,
+            12.922629049623373
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50124635746116,
+            12.92285641374971
+          ],
+          [
+            77.50110847406388,
+            12.922493327997211
+          ],
+          [
+            77.50076680590804,
+            12.922064342855583
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50211172416626,
+            12.923006528414406
+          ],
+          [
+            77.50219034562268,
+            12.92325579848919
+          ],
+          [
+            77.50255870567494,
+            12.923237928866792
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50211172416626,
+            12.923006528414406
+          ],
+          [
+            77.50184845865353,
+            12.923099905517327
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50211172416626,
+            12.923006528414406
+          ],
+          [
+            77.50201122545366,
+            12.922629049623373
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50211172416626,
+            12.923006528414406
+          ],
+          [
+            77.50220696798453,
+            12.922837573457231
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50280010594514,
+            12.923226220701357
+          ],
+          [
+            77.50354136985123,
+            12.923912704829654
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50280010594514,
+            12.923226220701357
+          ],
+          [
+            77.50287992057584,
+            12.923180525514603
+          ],
+          [
+            77.5031960060902,
+            12.923166979567448
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50280010594514,
+            12.923226220701357
+          ],
+          [
+            77.50255870567494,
+            12.923237928866792
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50201122545366,
+            12.922629049623373
+          ],
+          [
+            77.50198433227648,
+            12.922510496772674
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50198433227648,
+            12.922510496772674
+          ],
+          [
+            77.50221269555534,
+            12.922341946422645
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50198433227648,
+            12.922510496772674
+          ],
+          [
+            77.50133018193989,
+            12.921819441864342
+          ],
+          [
+            77.50076680590804,
+            12.922064342855583
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50224027138894,
+            12.921986616905041
+          ],
+          [
+            77.50239864879536,
+            12.922204698281343
+          ],
+          [
+            77.50221269555534,
+            12.922341946422645
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50221269555534,
+            12.922341946422645
+          ],
+          [
+            77.50210505668456,
+            12.922194134817888
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50076680590804,
+            12.922064342855583
+          ],
+          [
+            77.50056987020288,
+            12.922150784283263
+          ],
+          [
+            77.50043046110733,
+            12.922164867225847
+          ],
+          [
+            77.49998375201403,
+            12.921866122819404
+          ],
+          [
+            77.49971229144245,
+            12.921920906623017
+          ],
+          [
+            77.49945005096313,
+            12.922157051783298
+          ],
+          [
+            77.49918530252332,
+            12.922398024876356
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49918530252332,
+            12.922398024876356
+          ],
+          [
+            77.49884819487349,
+            12.92268713359416
+          ],
+          [
+            77.49877072194128,
+            12.922769102564912
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49918530252332,
+            12.922398024876356
+          ],
+          [
+            77.49952968402212,
+            12.922771409376255
+          ],
+          [
+            77.49961115574314,
+            12.922931230336674
+          ],
+          [
+            77.49963841078466,
+            12.922960326509696
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49877072194128,
+            12.922769102564912
+          ],
+          [
+            77.49852598828488,
+            12.922983540935995
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49877072194128,
+            12.922769102564912
+          ],
+          [
+            77.49865423657445,
+            12.922652695182885
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49852598828488,
+            12.922983540935995
+          ],
+          [
+            77.49828873938951,
+            12.923193166500937
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49852598828488,
+            12.922983540935995
+          ],
+          [
+            77.49837495402339,
+            12.922795655745247
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49852598828488,
+            12.922983540935995
+          ],
+          [
+            77.49870455651683,
+            12.923131568125509
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49828873938951,
+            12.923193166500937
+          ],
+          [
+            77.49820451371203,
+            12.923098617169888
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49816944691511,
+            12.922540003921663
+          ],
+          [
+            77.49837495402339,
+            12.922795655745247
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49837495402339,
+            12.922795655745247
+          ],
+          [
+            77.49860452724985,
+            12.922638037428296
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49860452724985,
+            12.922638037428296
+          ],
+          [
+            77.49865423657445,
+            12.922652695182885
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49860452724985,
+            12.922638037428296
+          ],
+          [
+            77.49857804483759,
+            12.92241793915969
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49865423657445,
+            12.922652695182885
+          ],
+          [
+            77.49878948061918,
+            12.922437924025902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49963841078466,
+            12.922960326509696
+          ],
+          [
+            77.50004736354883,
+            12.923365338380396
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49963841078466,
+            12.922960326509696
+          ],
+          [
+            77.49975081775251,
+            12.922854624429638
+          ],
+          [
+            77.49983574747462,
+            12.922774757412153
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50004736354883,
+            12.923365338380396
+          ],
+          [
+            77.50006019675484,
+            12.92326866627516
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50004736354883,
+            12.923365338380396
+          ],
+          [
+            77.50010983761862,
+            12.923300248266068
+          ],
+          [
+            77.5002495498978,
+            12.923211215134078
+          ],
+          [
+            77.50035700099458,
+            12.923100323946572
+          ],
+          [
+            77.50040475004523,
+            12.922984415743395
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50040475004523,
+            12.922984415743395
+          ],
+          [
+            77.49994569675178,
+            12.922661456039918
+          ],
+          [
+            77.49998859614344,
+            12.922514101985518
+          ],
+          [
+            77.50003604201046,
+            12.922473143971748
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50040475004523,
+            12.922984415743395
+          ],
+          [
+            77.50059934405189,
+            12.922861700531717
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50003604201046,
+            12.922473143971748
+          ],
+          [
+            77.50014773639899,
+            12.92254359901428
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50003604201046,
+            12.922473143971748
+          ],
+          [
+            77.50024339098218,
+            12.922273098639199
+          ],
+          [
+            77.50038405618324,
+            12.922563659513651
+          ],
+          [
+            77.50054304973703,
+            12.922629422763094
+          ],
+          [
+            77.50064713222302,
+            12.922736121336358
+          ],
+          [
+            77.50059934405189,
+            12.922861700531717
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50059934405189,
+            12.922861700531717
+          ],
+          [
+            77.50072103116194,
+            12.922922514835331
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50024637412453,
+            12.923688716591386
+          ],
+          [
+            77.50024655505669,
+            12.923643988252547
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5007780156822,
+            12.924450723103686
+          ],
+          [
+            77.5007495801523,
+            12.924477232231396
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5007780156822,
+            12.924450723103686
+          ],
+          [
+            77.50092097901573,
+            12.924586553185781
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50092097901573,
+            12.924586553185781
+          ],
+          [
+            77.5008709445185,
+            12.924617832220507
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50255870567494,
+            12.923237928866792
+          ],
+          [
+            77.50255893204553,
+            12.923181967670534
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50004736354883,
+            12.923365338380396
+          ],
+          [
+            77.50014204012031,
+            12.923336612809855
+          ],
+          [
+            77.50051766141881,
+            12.923369185595144
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50051766141881,
+            12.923369185595144
+          ],
+          [
+            77.50048640758848,
+            12.923098299490952
+          ],
+          [
+            77.50040475004523,
+            12.922984415743395
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50051766141881,
+            12.923369185595144
+          ],
+          [
+            77.50064185648937,
+            12.923425171965983
+          ],
+          [
+            77.50076130948221,
+            12.923423117257098
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49946254186504,
+            12.92214500085965
+          ],
+          [
+            77.49953687112912,
+            12.922225013444626
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49953687112912,
+            12.922225013444626
+          ],
+          [
+            77.49961678356101,
+            12.922155140777416
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49953687112912,
+            12.922225013444626
+          ],
+          [
+            77.49976979296221,
+            12.922469916948904
+          ],
+          [
+            77.4998597372361,
+            12.922380732550597
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49961678356101,
+            12.922155140777416
+          ],
+          [
+            77.49982999379432,
+            12.92235162881426
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49961678356101,
+            12.922155140777416
+          ],
+          [
+            77.49999217991682,
+            12.92224332176775
+          ],
+          [
+            77.49994715398924,
+            12.922301211581154
+          ],
+          [
+            77.49990490986544,
+            12.92228657651651
+          ],
+          [
+            77.49982999379432,
+            12.92235162881426
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.49982999379432,
+            12.92235162881426
+          ],
+          [
+            77.4998597372361,
+            12.922380732550597
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4998597372361,
+            12.922380732550597
+          ],
+          [
+            77.49998859614344,
+            12.922514101985518
+          ]
+        ]
+      },
+      "properties": {
+        "type": "path_segment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49910693545075,
+          12.924571736685593
+        ]
+      },
+      "properties": {
+        "name": "Main Gate Entry",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4990115862783,
+          12.924531751069537
+        ]
+      },
+      "properties": {
+        "name": "Main Gate Exit",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49931028225808,
+          12.924916656873037
+        ]
+      },
+      "properties": {
+        "name": "RV post",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49926945120558,
+          12.924539389650377
+        ]
+      },
+      "properties": {
+        "name": "CS Lab 1-6 Temp",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49947747057337,
+          12.924344926866695
+        ]
+      },
+      "properties": {
+        "name": "Dept. of Civil Engineering",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49954294714502,
+          12.92390082795977
+        ]
+      },
+      "properties": {
+        "name": "Kriyakalpa Central Maintainance",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4994330484177,
+          12.923789335507692
+        ]
+      },
+      "properties": {
+        "name": "Dept of Mech temp",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49784451662299,
+          12.923435644267286
+        ]
+      },
+      "properties": {
+        "name": "Design Thinking Huddle",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49987572024156,
+          12.922333947723416
+        ]
+      },
+      "properties": {
+        "name": "Washrooms",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49994675429014,
+          12.92227802710137
+        ]
+      },
+      "properties": {
+        "name": "Xerox",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49997589646563,
+          12.922245184826124
+        ]
+      },
+      "properties": {
+        "name": "Stationary Store",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49964804700909,
+          12.922352587927605
+        ]
+      },
+      "properties": {
+        "name": "Mingos Food canteen",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.500713576485,
+          12.92291900027638
+        ]
+      },
+      "properties": {
+        "name": "MM Foods (near washrooms)",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50034946931055,
+          12.922592439218533
+        ]
+      },
+      "properties": {
+        "name": "RVCE Library 3rd floor",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50014433850964,
+          12.92254245534572
+        ]
+      },
+      "properties": {
+        "name": "RVU Library",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49972887290505,
+          12.922828822530832
+        ]
+      },
+      "properties": {
+        "name": "CS lab 910",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49803421041412,
+          12.923581639670516
+        ]
+      },
+      "properties": {
+        "name": "Parking admin block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49831230739915,
+          12.923470566608756
+        ]
+      },
+      "properties": {
+        "name": "PG Mechanical",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49876589909746,
+          12.923916208308157
+        ]
+      },
+      "properties": {
+        "name": "Admin Block RVCE",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49924424212526,
+          12.92472389755936
+        ]
+      },
+      "properties": {
+        "name": "Parking Visitors",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49998982486426,
+          12.925211179834832
+        ]
+      },
+      "properties": {
+        "name": "Playground",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50008261489614,
+          12.924666033159198
+        ]
+      },
+      "properties": {
+        "name": "Parking Students",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50028505493913,
+          12.924468436818117
+        ]
+      },
+      "properties": {
+        "name": "Dept of Computer Science",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50005930236722,
+          12.924266163958848
+        ]
+      },
+      "properties": {
+        "name": "Dept of Electrical Engineering",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49991975047811,
+          12.92374756305881
+        ]
+      },
+      "properties": {
+        "name": "Dept of Electronics",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4998282130245,
+          12.923470701131308
+        ]
+      },
+      "properties": {
+        "name": "MM Foods (inside campus)",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49961220207007,
+          12.923414017460544
+        ]
+      },
+      "properties": {
+        "name": "Admin Block RVU",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49851612556085,
+          12.92239756871487
+        ]
+      },
+      "properties": {
+        "name": "MCA block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49855768906787,
+          12.922408821732361
+        ]
+      },
+      "properties": {
+        "name": "Dept of AIML",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49877936110562,
+          12.922430202463403
+        ]
+      },
+      "properties": {
+        "name": "Dept of Biotechnology",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49859837101587,
+          12.922996328675865
+        ]
+      },
+      "properties": {
+        "name": "IEM Auditorium",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49870319688654,
+          12.9231176564615
+        ]
+      },
+      "properties": {
+        "name": "IEM Seminar Hall",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50061536913142,
+          12.924063450573954
+        ]
+      },
+      "properties": {
+        "name": "Krishna Hostel",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5010603890882,
+          12.923978039503567
+        ]
+      },
+      "properties": {
+        "name": "Mess",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50110638126057,
+          12.92394341298997
+        ]
+      },
+      "properties": {
+        "name": "Cauvery Hostel",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50151252217307,
+          12.923897563271098
+        ]
+      },
+      "properties": {
+        "name": "Incubation Centre",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50118781019842,
+          12.92379773959405
+        ]
+      },
+      "properties": {
+        "name": "Dept of Mathematics, CoE",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50178601590085,
+          12.923784525778501
+        ]
+      },
+      "properties": {
+        "name": "RVU B block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50150877323972,
+          12.923713900172856
+        ]
+      },
+      "properties": {
+        "name": "RVU A block Entrance 1",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50190708733959,
+          12.923094575626479
+        ]
+      },
+      "properties": {
+        "name": "RVU C block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50174847151305,
+          12.923259124023431
+        ]
+      },
+      "properties": {
+        "name": "A Block E2",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50239134497247,
+          12.922188113310767
+        ]
+      },
+      "properties": {
+        "name": "RVU F block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50219419993988,
+          12.922842032537076
+        ]
+      },
+      "properties": {
+        "name": "MV Hostel",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50317984383543,
+          12.92314724827095
+        ]
+      },
+      "properties": {
+        "name": "Diamond Jubilee Hostel",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50253786189751,
+          12.923139793664816
+        ]
+      },
+      "properties": {
+        "name": "RVU Design Block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50074121887718,
+          12.92334606902594
+        ]
+      },
+      "properties": {
+        "name": "Old Library Block",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50073892910132,
+          12.924469246204552
+        ]
+      },
+      "properties": {
+        "name": "Health Centre",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50085559472177,
+          12.924612992749303
+        ]
+      },
+      "properties": {
+        "name": "Temple",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50142314668852,
+          12.92439771123324
+        ]
+      },
+      "properties": {
+        "name": "Parking Space",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50206748640534,
+          12.922166688036327
+        ]
+      },
+      "properties": {
+        "name": "Chamundi Hostel",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49940226910417,
+          12.922571197383007
+        ]
+      },
+      "properties": {
+        "name": "Central Computing Hub",
+        "type": "poi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49814245034639,
+          12.922532435602719
+        ]
+      },
+      "properties": {
+        "name": "Founders Memorial",
+        "type": "poi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+
+{
+  "name": "CampusVoiceNav",
+  "description": "A voice-enabled campus navigation app that parses GeoJSON walkway graphs and provides turn-by-turn instructions using pure frontend logic.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
